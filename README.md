@@ -1,4 +1,4 @@
-![Home Page] (screenshot.png)
+![Home Page](screenshot.png)
 
 # _Tap Room_
 
